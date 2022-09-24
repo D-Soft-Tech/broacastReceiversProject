@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BroadCastReceivers</string>
+    <string name="airplane_mode">Airplane mode %1$s</string>
+    <string name="boot_completed">Boot Completed</string>
+    <string name="enabled">enabled</string>
+    <string name="disabled">disabled</string>
+    <string name="no_connnectivity">No internet connectivity</string>
+    <string name="back_online">Back online</string>
+</resources>
